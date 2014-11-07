@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Civboardgameassistent/Civboardgameassistent.iml" filepath="$PROJECT_DIR$/Civboardgameassistent/Civboardgameassistent.iml" />
       <module fileurl="file://$PROJECT_DIR$/CivboardgameassistentProject.iml" filepath="$PROJECT_DIR$/CivboardgameassistentProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/civ_assistent.iml" filepath="$PROJECT_DIR$/civ_assistent.iml" />
     </modules>
   </component>
 </project>
